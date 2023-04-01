@@ -3,3 +3,4 @@ I created this repository to keep track of my progress, I'll post everything I m
 
 Here is the link for the miro board, I hope it nevere expires.
 https://miro.com/app/board/uXjVMXLKnBw=/?share_link_id=991542234946
+If basics things are missing, like namespaces, library, variables, just assume that I forgot about it or just that I didn't feel like it needed to be written.
