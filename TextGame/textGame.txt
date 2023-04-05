@@ -1,0 +1,2 @@
+Simple text game I made in a few hours, but that I am proud of it, first reason is that I finally got to use the oop + encapsulation.
+The second reason is that this Is my very first project and It wasn't so bad (not counting the rock paper scissor game), I'm also planning to complete it by adding more chapters to the game 
